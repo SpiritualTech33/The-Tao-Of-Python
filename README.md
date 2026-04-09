@@ -149,7 +149,7 @@ When all 7 pass — breathe. Then open the next chapter.
 
 </div>
 
-Try using **SpiritualTech's** signature tool — the [ZenCode Assistant](https://github.com/SpiritualTech33/ZenCode-Assistant). An AI-powered coding companion built on the ZenCode philosophy. It won't give you the answer — it will help you *find* it.
+Try using **SpiritualTech's** signature tool — the [ZenCode Assistant](https://spiritualtech777.gumroad.com/l/hbnwd?layout=profile). An AI-powered coding companion built on the ZenCode philosophy. It won't give you the answer — it will help you *find* it.
 
 ---
 

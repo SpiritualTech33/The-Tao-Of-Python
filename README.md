@@ -1,8 +1,8 @@
-# 🐍 Python From the Void
+# 🐍 The Tao Of Python
 
 <div align="center">
 
-<img src="python_from_the_void.jpg" alt="Python From the Void" width="600"/>
+<img src="data/pictures/the_tao_of_python.jpg" alt="The Tao Of Python" width="600"/>
 
 </div>
 
@@ -21,7 +21,7 @@ Most Python courses teach you *what* and *how*. This course teaches you **why** 
 
 Before you write a single line, you will understand why that line exists. What problem it solves. What truth it reflects. What it reveals about the nature of computation — and about the nature of mind itself.
 
-*Python From the Void* is built on a radical premise:
+*The Tao Of Python* is built on a radical premise:
 
 **Programming is a contemplative practice.**
 
@@ -141,6 +141,18 @@ When all 7 pass — breathe. Then open the next chapter.
 
 ---
 
+## Psssss... Stuck on a Kata?
+
+<div align="center">
+
+<img src="data/pictures/zencode_assistant_v1.7.1_thumbnail.jpg" alt="ZenCode Assistant" width="400"/>
+
+</div>
+
+Try using **SpiritualTech's** signature tool — the [ZenCode Assistant](https://github.com/SpiritualTech33/ZenCode-Assistant). An AI-powered coding companion built on the ZenCode philosophy. It won't give you the answer — it will help you *find* it.
+
+---
+
 ## The Philosophy
 
 This course exists because of a frustration:
@@ -166,31 +178,6 @@ Before you open Chapter 1, make three agreements with yourself:
 **2. Type the code by hand.** Do not copy-paste examples. The act of typing creates different neural pathways than reading. Your hands must learn, not just your mind.
 
 **3. Ask why.** For every concept, before asking "how does this work," ask "why does this exist?" That question is the master key.
-
----
-
-## Project Structure
-
-```
-Python-From-The-Void/
-├── README.md                          ← You are here
-├── requirements.txt                   ← Dependencies
-├── .python-version                    ← Python 3.11.7
-├── chapters/
-│   ├── chapter-01-the-first-steps.md
-│   ├── chapter-02-the-many-and-the-one.md
-│   ├── chapter-03-the-word-and-the-path.md
-│   ├── chapter-04-when-action-learns-to-repeat.md
-│   ├── chapter-05-the-art-of-falling.md
-│   └── chapter-06-truth-put-to-the-test.md
-└── katas/
-    ├── chapter_01_katas.py
-    ├── chapter_02_katas.py
-    ├── chapter_03_katas.py
-    ├── chapter_04_katas.py
-    ├── chapter_05_katas.py
-    └── chapter_06_katas.py
-```
 
 ---
 
@@ -234,4 +221,4 @@ You are free to use, modify, and distribute this work under the terms of either 
 
 ## Version
 
-1.0.0
+1.1.0

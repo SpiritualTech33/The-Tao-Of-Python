@@ -7,7 +7,7 @@ These katas test your ability to WRITE TESTS — not just implement functions.
 HOW TO RUN THESE KATAS:
     From your terminal, navigate to the katas/ folder:
 
-        cd path/to/Python-From-The-Void/katas
+        cd path/to/The-Tao-Of-Python/katas
         pytest chapter_06_katas.py -v
 
     A test marked PASSED means your implementation is correct.
